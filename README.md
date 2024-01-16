@@ -26,4 +26,4 @@ My Portfolio serves as a digital representation of my professional identity and 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Personal.git
+   git clone https://github.com/sukhbir77/personal-portfolio-old.git
